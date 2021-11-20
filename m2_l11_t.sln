@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task1_StopSign", "Task1_StopSign\Task1_StopSign.csproj", "{1072D4AE-F03B-40E4-A701-DE2608D29148}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task2_FlowerAndBlend", "Task2_FlowerAndBlend\Task2_FlowerAndBlend.csproj", "{6444605A-D5EA-4BC6-954E-2BBA4E8EC869}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1072D4AE-F03B-40E4-A701-DE2608D29148}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1072D4AE-F03B-40E4-A701-DE2608D29148}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1072D4AE-F03B-40E4-A701-DE2608D29148}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1072D4AE-F03B-40E4-A701-DE2608D29148}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6444605A-D5EA-4BC6-954E-2BBA4E8EC869}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6444605A-D5EA-4BC6-954E-2BBA4E8EC869}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6444605A-D5EA-4BC6-954E-2BBA4E8EC869}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6444605A-D5EA-4BC6-954E-2BBA4E8EC869}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D3E6902-9514-44B5-8194-E1C7127B858F}
+	EndGlobalSection
+EndGlobal

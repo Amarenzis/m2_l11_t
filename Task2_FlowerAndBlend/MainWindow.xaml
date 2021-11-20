@@ -1,0 +1,109 @@
+﻿<Window x:Class="Task2_FlowerAndBlend.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Task2_FlowerAndBlend"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="800" Width="600"
+        ResizeMode="NoResize">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Path Data="M294.09987,713.69998 C248.80111,625.19994 255.70131,647.49997 264.50051,563.89995 268.87389,522.34899 300.61232,517.97511 295.69943,469.89993 290.09932,415.09992 291.86259,445.01208 291.86259,377.81205 291.86259,358.5455 296.49978,332.49992 296.49978,332.49992" 
+              HorizontalAlignment="Left" VerticalAlignment="Top" Grid.RowSpan="2"
+              Height="386.2" Width="43.449"
+              Margin="256.051,330.5,0,0" 
+              Stretch="Fill" 
+              Stroke="Green" StrokeThickness="5"/>
+        <Path Data="M262.10001,322.90009 C261.649,335.53102 278.44892,370.73073 300.04892,343.53073 321.64892,316.33073 321.64901,309.93137 316.04901,299.53149" 
+              HorizontalAlignment="Left" VerticalAlignment="Top" 
+              Height="59.059" Width="62.099"
+              Margin="266.37,303.3,0,0" 
+              Fill="LightGreen"  Stretch="Fill" 
+              Stroke="Green" StrokeThickness="5"/>
+
+
+
+        <Path Data="M260.2,111.4 C222.6,104.2 190.05033,80.318031 184.40808,79.911794 177.30015,79.400029 143.89918,42.279139 166.10017,17.800082 184.87226,-2.8982303 285.30058,-31.800041 288.50015,12.500005 292.21046,63.871532 290.10016,91.699959 281.30012,98.099973" 
+              Fill="#FFDC4E1F" Stretch="Fill" 
+              HorizontalAlignment="Left" VerticalAlignment="Top"
+              Height="125.161" Width="134.656"
+              Margin="153.59,38.939,0,0" 
+              Stroke="Black" StrokeThickness="3"/>
+        <Path Data="M271.4,189.8 C266.9,209.30007 246.89999,277.3 218.89999,273.3 190.89999,269.3 161.29999,258.10023 154.89999,234.90015 148.49999,211.70007 140.49999,190.90001 161.29999,176.49996 182.09999,162.09991 250.10004,154.09988 250.10004,154.09988 250.10004,154.09988 275.9,170.29993 271.4,189.8 z" 
+              Fill="#FFDC4E1F" Stretch="Fill"
+              HorizontalAlignment="Left" 
+              VerticalAlignment="Top"
+              Height="120.369" Width="125.036"
+              Margin="151.091,200.5,0,0" 
+              Stroke="Black" StrokeThickness="3"/>
+        <Path Data="M251.4,157.8 C165.8,174.6 147.69999,174.3 130.89999,157.8 114.09999,141.3 120.49999,103.7011 126.09999,100.50116 131.69999,97.301228 136.05324,40.29506 179.70023,70.102213 212.50023,92.501805 266.89996,97.301678 257.29998,125.30086" 
+              Fill="#FFDC4E1F" Stretch="Fill"
+              HorizontalAlignment="Left" VerticalAlignment="Top"
+              Height="111.786" Width="141.33"
+              Margin="120.87,113.4,0,0"  
+              Stroke="Black" StrokeThickness="3"/>
+        <Path Data="M330.6,159.4 C369.8,126.6 410.90001,115.69999 427.70001,125.29999 444.50001,134.89999 435.70001,177.29997 445.30001,195.69994 454.90001,214.09992 450.10002,234.0999 437.30002,237.2999 424.50002,240.49989 358.90004,224.49991 355.70003,222.89991 352.50003,221.29992 338.10001,214.09989 338.10001,214.09989" 
+              Fill="#FFDC4E1F" Stretch="Fill" 
+              HorizontalAlignment="Left" VerticalAlignment="Top"
+              Height="118.776" Width="122.768"
+              Margin="329.6,120.946,0,0" 
+              Stroke="Black" StrokeThickness="3"/>
+        <Path Data="M278.6,150.6 C266.6,108.2 274.10019,90.900318 283.70019,75.700318 293.30019,60.500318 290.89997,38.100424 315.69954,39.700424 340.49911,41.300424 410.89796,84.500285 412.49793,99.700221 414.0979,114.90016 419.6978,111.70017 386.89837,134.90007 354.09893,158.09997 334.09924,160.49996 331.69928,165.29994" 
+              Fill="#FFDC4E1F" Stretch="Fill"
+              HorizontalAlignment="Left" VerticalAlignment="Top"
+              Height="128.681" Width="144.471"
+              Margin="271.407,38.619,0,0" 
+              Stroke="Black" StrokeThickness="3"/>
+        <Path Data="M345,192.2 C395.4,202.6 397.3,192.5 410.1,220.5 422.9,248.5 438.10001,274.90001 411.70001,289.30001 385.3,303.70001 383.6999,291.70002 379.69991,308.50002 375.69992,325.30003 369.29994,338.10004 342.90001,325.30004 316.50007,312.50003 318.10005,306.10003 315.70006,277.30002 313.30007,248.50002 313.30008,226.90001 313.30008,226.90001" 
+              Fill="#FFDC4E1F" 
+              HorizontalAlignment="Left" VerticalAlignment="Top"
+              Height="141.306" Width="115.929"
+              Margin="312.3,191.2,0,0" 
+              Stretch="Fill" 
+              Stroke="Black" StrokeThickness="3"  />
+        <Path Data="M323.4,224.2 C322.6,310.6 358.09999,320.5 313.29999,325.3 268.49999,330.1 260.50016,337.29999 246.10021,323.69999 231.70026,310.09999 225.30027,297.29985 227.70026,282.89988 230.10026,268.49991 274.90014,234.09998 274.90014,234.09998" 
+              Fill="#FFDC4E1F" Stretch="Fill" 
+              HorizontalAlignment="Left" VerticalAlignment="Top"
+              Height="110.351" Width="111.785"
+              Margin="226.207,223.2,0,0" 
+              Stroke="Black" StrokeThickness="3"  />
+        <Ellipse Width="100" Height="100" 
+                 Stroke="Black" StrokeThickness="5"                 >
+            <Ellipse.Fill>
+                <RadialGradientBrush>
+                    <GradientStop Color="Yellow" Offset="1"/>
+                    <GradientStop Color="#FFE46411" Offset="0.308"/>
+                </RadialGradientBrush>
+            </Ellipse.Fill>
+        </Ellipse>
+        <Path Data="M294.89999,710.69954 C286.89999,624.29967 294.59581,588.65647 370.09994,557.69979 450.09989,524.89983 460.49999,528.10001 479.69999,484.10001 498.89999,440.1 494.09998,565.70002 460.49998,603.30002 426.89999,640.90002 412.49992,624.10001 364.49994,652.10003 316.49997,680.10006 319.69997,673.69966 307.69998,712.90009 297.52237,746.14731 293.3,713.09947 293.3,713.09947" 
+              HorizontalAlignment="Left" VerticalAlignment="Top"
+              Height="257.857" Width="203.533"
+              Margin="290.397,87.472,0,0" 
+              Grid.Row="1" 
+              Fill="LightGreen" Stretch="Fill"
+              Stroke="Green" StrokeThickness="5"/>
+        <Path Data="M262.82358,636.09999 C129.22358,580.89999 134.10001,570.49998 108.50001,524.09998 82.900006,477.69998 88.500008,476.89998 66.900008,457.69998 45.300008,438.49998 122.10001,447.29998 133.30001,452.89998 144.50001,458.49998 231.62362,517.90025 239.62361,553.90016 247.62359,589.90008 258.8232,631.49998 261.22319,633.09998 263.62319,634.69997 264.42381,635.29997 260.42382,635.29997" 
+              Fill="LightGreen" Stretch="Fill"
+              HorizontalAlignment="Left" VerticalAlignment="Top" Grid.Row="1"
+              Height="195.159" Width="205.134"
+              Margin="56.366,50.541,0,0"  
+              Stroke="Green" StrokeThickness="5"  />
+
+
+
+
+
+
+
+
+
+
+
+
+    </Grid>
+</Window>
