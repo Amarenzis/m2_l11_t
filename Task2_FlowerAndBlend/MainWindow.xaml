@@ -24,9 +24,6 @@
               Margin="266.37,303.3,0,0" 
               Fill="LightGreen"  Stretch="Fill" 
               Stroke="Green" StrokeThickness="5"/>
-
-
-
         <Path Data="M260.2,111.4 C222.6,104.2 190.05033,80.318031 184.40808,79.911794 177.30015,79.400029 143.89918,42.279139 166.10017,17.800082 184.87226,-2.8982303 285.30058,-31.800041 288.50015,12.500005 292.21046,63.871532 290.10016,91.699959 281.30012,98.099973" 
               Fill="#FFDC4E1F" Stretch="Fill" 
               HorizontalAlignment="Left" VerticalAlignment="Top"
@@ -70,7 +67,7 @@
               HorizontalAlignment="Left" VerticalAlignment="Top"
               Height="110.351" Width="111.785"
               Margin="226.207,223.2,0,0" 
-              Stroke="Firebrick" StrokeThickness="3"  />
+              Stroke="Firebrick" StrokeThickness="3"/>
         <Ellipse Width="100" Height="100" 
                  Stroke="DarkOrange" StrokeThickness="5"                 >
             <Ellipse.Fill>
@@ -93,17 +90,5 @@
               Height="195.159" Width="205.134"
               Margin="56.366,50.541,0,0"  
               Stroke="Green" StrokeThickness="5"  />
-
-
-
-
-
-
-
-
-
-
-
-
     </Grid>
 </Window>
